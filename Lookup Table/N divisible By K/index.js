@@ -25,4 +25,6 @@ var smallestRepunitDivByK = function(k) {
     return answer_length
 };
 
+
+// test case
 console.log(smallestRepunitDivByK(19))
