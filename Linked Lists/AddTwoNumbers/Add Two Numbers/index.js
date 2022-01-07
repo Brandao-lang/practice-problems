@@ -21,7 +21,7 @@ var addTwoNumbers = function(l1, l2) {
     let carry = 0
 
     while (l1 || l2 || sum > 0) {
-        // while there is a digit to be added in both lists (l1 and l2), contine the loop.
+        // while there is a digit to be added in both lists (l1 and l2), continue the loop.
 
         if (l1) {
             // if the l1 node exists add it to the sum and move on to the next digit in the l1 linked list
