@@ -6,5 +6,5 @@ $authors = array(
     "Andrez Sapkowski" => "Witcher"
 );
 
-// have to use print_r to print an array to the console.
+// have to use print_r to print an array to the console
 print_r($authors);
